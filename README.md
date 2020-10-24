@@ -1,6 +1,6 @@
 ## Hello 👋
 
-💬 My name is I Gusti Agung Vivekananda, usually, people called me Amar.
+💬 My name is I Gusti Agung Vivekananda, usually, people called me Weka.
 
 📋 I'm currently work in **SainsIn Education** as **React Developer**
 
